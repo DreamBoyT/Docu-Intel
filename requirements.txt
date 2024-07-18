@@ -1,2 +1,7 @@
 streamlit
-openai
+langchain-openai
+tempfile
+concurrent.futures
+langchain
+PyPDF2
+python-docx
