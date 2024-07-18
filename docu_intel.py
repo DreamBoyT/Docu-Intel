@@ -235,3 +235,5 @@ if pdf_file is not None:
 else:
     time.sleep(35)
     st.warning("No PDF file uploaded")
+
+# install pip
