@@ -10,3 +10,4 @@ AzureOpenAI
 openai
 langchain_community
 pypdf
+faiss-gpu
