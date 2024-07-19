@@ -5,4 +5,4 @@ langchain-text-splitters
 langsmith
 PyPDF2
 python-docx
-langchain_openai
+langchain-openai
